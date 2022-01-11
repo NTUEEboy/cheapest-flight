@@ -15,7 +15,7 @@ Output: 200
 ### Example 2
 ```
 Input: n = 4, flights = [[0,1,100],[1,2,100],[2,3,100],[0,3,500]], src = 0, dst = 3, k = 2
-Output: 200
+Output: 300
 ```
 <img src="./case2.png" alt="" width="400"/>
 
