@@ -6,7 +6,7 @@ There are two test cases in the `test_cases.py`
 
 ### Example 1
 ```
-n: # of nodes, flights: edges[from, to, price], src: source node, dst: destination, k: stop(s)
+n: # of edges, flights: edges[from, to, price], src: source node, dst: destination, k: stop(s)
 Input: n = 3, flights = [[0,1,100],[1,2,100],[0,2,500]], src = 0, dst = 2, k = 1
 Output: 200
 ```
